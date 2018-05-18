@@ -37,3 +37,5 @@ function funkyFunction(){
     return "FUNKY!";
   }
 
+
+theFunk = theFunk()
